@@ -101,7 +101,7 @@ LeetCode easy/medium:
 ---
 
 ### **Block 2 (1h30) — Networking (Core Theory)**
-
+#Done
 Study:
 
 - **OSI Model (layers 1–7)**: purpose of each
