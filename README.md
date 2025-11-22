@@ -76,7 +76,7 @@ Solve 2–3 LeetCode easy problems involving lists, dicts, and basic logic.
 # 🗓️ **DAY 2 — Algorithms + Networking Basics**
 
 ### **Block 1 (1h30) — Algorithms (Intermediate)**
-
+#Done
 Study:
 
 - Sliding window basics
